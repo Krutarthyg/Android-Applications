@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Text to speech</string>
+    <string name="text_to_speech_app">TEXT TO SPEECH APP</string>
+    <string name="enter_pitch_1_0_is_normal">Enter Pitch (1.0 is normal)</string>
+    <string name="enter_speech_rate_1_0_is_normal">Enter Speech Rate (1.0 is normal)</string>
+    <string name="enter_text_to_speak">Enter Text to Speak</string>
+    <string name="speak">SPEAK</string>
+    <string name="text_to_speech_app1">Text to Speech App</string>
+    <string name="enter_pitch_1_0_is_normal1">Enter Pitch (1.0 is normal)</string>
+    <string name="enter_speech_rate_1_0_is_normal1">Enter Speech Rate (1.0 is normal)</string>
+    <string name="enter_text_to_speak1">Enter text to speak</string>
+    <string name="speak1">Speak</string>
+    <string name="i_want_water1">I want water</string>
+    <string name="i_want_food1">I want food</string>
+    <string name="i_need_help1">I need help</string>
+    <string name="dsu_logo">LOGO</string>
+    <string name="krutarth_y_g_eng21ct0016">Krutarth Y G (ENG21CT0016)</string>
+    <string name="logo">DSU logo</string>
+</resources>
